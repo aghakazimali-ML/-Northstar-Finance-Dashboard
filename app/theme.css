@@ -87,13 +87,20 @@ input:focus, select:focus, textarea:focus { border-color: var(--brand-1); box-sh
 input[type='checkbox'], input[type='radio'], input[type='range'] { accent-color: var(--brand-1); }
 
 /* ---- Sidebar (always deep navy, with a coloured glow) ---- */
-.sidebar { background: linear-gradient(185deg, #062b21 0%, #031a13 100%); border-right: 0; color: #e4f4ec; overflow: hidden; }
-.sidebar::before {
-  content: ''; position: absolute; inset: 0; pointer-events: none;
+.sidebar {
+  /* Glow + gradient live in the element's own background, so the glow stays put while the menu scrolls. */
   background:
     radial-gradient(320px 260px at -10% -5%, color-mix(in srgb, var(--brand-1) 55%, transparent), transparent 70%),
-    radial-gradient(300px 260px at 110% 105%, color-mix(in srgb, var(--brand-2) 40%, transparent), transparent 70%);
+    radial-gradient(300px 260px at 110% 105%, color-mix(in srgb, var(--brand-2) 40%, transparent), transparent 70%),
+    linear-gradient(185deg, #062b21 0%, #031a13 100%);
+  border-right: 0; color: #e4f4ec;
+  /* Short laptop screens: let the menu scroll instead of clipping Data & Reporting. */
+  overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain;
+  scrollbar-width: thin; scrollbar-color: rgb(255 255 255 / 0.22) transparent;
 }
+.sidebar::-webkit-scrollbar { width: 6px; }
+.sidebar::-webkit-scrollbar-thumb { background: rgb(255 255 255 / 0.22); border-radius: 6px; }
+.sidebar > * { flex-shrink: 0; }
 .sidebar > * { position: relative; }
 .brand { color: #fff; font-size: 24px; gap: 10px; }
 .brand-mark { display: grid; place-items: center; width: 38px; height: 38px; border-radius: 12px; background: var(--grad); color: #fff; box-shadow: 0 10px 24px -8px color-mix(in srgb, var(--brand-1) 80%, transparent), inset 0 1px 0 rgb(255 255 255 / 0.35); }
@@ -123,7 +130,7 @@ nav small { background: var(--lime); color: var(--ink); border: 0; font-weight: 
 .sidebar .avatar { background: var(--grad); color: #fff; }
 
 /* ---- Topbar ---- */
-.topbar { position: sticky; top: 0; z-index: 30; background: color-mix(in srgb, var(--card) 94%, transparent); border-bottom-color: color-mix(in srgb, var(--border) 80%, transparent); }
+.topbar { position: sticky; top: 0; z-index: 30; background: var(--card); border-bottom-color: color-mix(in srgb, var(--border) 80%, transparent); }
 .breadcrumbs { font-size: 13px; }
 .local-badge { font-size: 12px; border-radius: 999px; background: var(--card); }
 .avatar { background: var(--grad); color: #fff; box-shadow: 0 6px 16px -6px color-mix(in srgb, var(--brand-1) 70%, transparent); }
@@ -337,4 +344,24 @@ tbody tr:hover { background: color-mix(in srgb, var(--brand-1) 5%, var(--card));
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
+}
+
+
+/* ---- Short screens (13-14" laptops, browser chrome + zoom): compact sidebar so everything fits or scrolls ---- */
+@media (max-height: 900px) {
+  .sidebar { padding-top: 22px; }
+  .workspace-switch { margin: 22px 0 18px; padding: 10px 8px; }
+  .nav-label { margin-bottom: 8px; }
+  .nav-label.second { margin-top: 18px; }
+  nav { gap: 3px; }
+  nav button { padding: 9px 13px; }
+  .sidebar-bottom { padding-top: 22px; }
+  .local-card { padding: 14px; margin-bottom: 12px; }
+  .local-card p { line-height: 1.5; margin-top: 5px; }
+  .sidebar-profile { padding: 12px 0 14px; }
+}
+@media (max-height: 800px) {
+  .local-card p { display: none; }
+  .local-card { padding: 11px 14px; }
+  .local-card > svg { margin-bottom: 6px; }
 }
