@@ -123,7 +123,7 @@ nav small { background: var(--lime); color: var(--ink); border: 0; font-weight: 
 .sidebar .avatar { background: var(--grad); color: #fff; }
 
 /* ---- Topbar ---- */
-.topbar { position: sticky; top: 0; z-index: 30; background: color-mix(in srgb, var(--card) 72%, transparent); backdrop-filter: blur(16px) saturate(1.5); border-bottom-color: color-mix(in srgb, var(--border) 80%, transparent); }
+.topbar { position: sticky; top: 0; z-index: 30; background: color-mix(in srgb, var(--card) 94%, transparent); border-bottom-color: color-mix(in srgb, var(--border) 80%, transparent); }
 .breadcrumbs { font-size: 13px; }
 .local-badge { font-size: 12px; border-radius: 999px; background: var(--card); }
 .avatar { background: var(--grad); color: #fff; box-shadow: 0 6px 16px -6px color-mix(in srgb, var(--brand-1) 70%, transparent); }
@@ -268,7 +268,7 @@ tbody tr:hover { background: color-mix(in srgb, var(--brand-1) 5%, var(--card));
    ========================================================================== */
 .empty-hero { padding-top: 34px; }
 .welcome-pill { font-size: 12.5px; font-weight: 600; border-radius: 999px; padding: 8px 16px; color: var(--text); }
-.status-dot { background: var(--mint); animation: pulse-dot 2.4s infinite; width: 7px; height: 7px; }
+.status-dot { background: var(--mint); animation: pulse-dot 2.4s 4; width: 7px; height: 7px; }
 .empty-hero h1 { font-size: 66px; letter-spacing: -3.2px; font-weight: 700; line-height: 1.04; }
 .empty-hero h1 > span { font-family: var(--font-serif); font-style: italic; font-weight: 400; letter-spacing: -1.5px; font-size: 1.12em; background: var(--grad); background-size: 200% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: gradient-pan 5s ease-in-out infinite alternate; padding-right: 6px; }
 .empty-hero-copy > p { font-size: 16px; line-height: 1.8; max-width: 500px; }

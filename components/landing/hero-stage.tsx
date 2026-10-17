@@ -12,19 +12,32 @@ export default function HeroStage({ children }: { children: ReactNode }) {
     const el = ref.current;
     if (!el || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     let raf = 0;
+    let last = -1;
     const onScroll = () => {
       cancelAnimationFrame(raf);
-      raf = requestAnimationFrame(() => el.style.setProperty('--s', String(Math.min(1, window.scrollY / 520))));
+      raf = requestAnimationFrame(() => {
+        const v = Math.min(1, window.scrollY / 520);
+        if (v === last) return; // past the hero: nothing to restyle
+        last = v;
+        el.style.setProperty('--s', String(v));
+      });
     };
     window.addEventListener('scroll', onScroll, { passive: true });
     onScroll();
     return () => { window.removeEventListener('scroll', onScroll); cancelAnimationFrame(raf); };
   }, []);
 
+  const pending = useRef(0);
   function move(e: React.PointerEvent<HTMLDivElement>) {
-    const r = e.currentTarget.getBoundingClientRect();
-    e.currentTarget.style.setProperty('--px', String(((e.clientX - r.left) / r.width - 0.5) * 2));
-    e.currentTarget.style.setProperty('--py', String(((e.clientY - r.top) / r.height - 0.5) * 2));
+    if (e.pointerType !== 'mouse' || pending.current) return;
+    const el = e.currentTarget;
+    const { clientX, clientY } = e;
+    pending.current = requestAnimationFrame(() => {
+      pending.current = 0;
+      const r = el.getBoundingClientRect();
+      el.style.setProperty('--px', String(((clientX - r.left) / r.width - 0.5) * 2));
+      el.style.setProperty('--py', String(((clientY - r.top) / r.height - 0.5) * 2));
+    });
   }
   function leave(e: React.PointerEvent<HTMLDivElement>) {
     e.currentTarget.style.setProperty('--px', '0');
