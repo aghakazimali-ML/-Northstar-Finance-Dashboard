@@ -1,0 +1,685 @@
+month,account,account_name,category,scenario,amount,department,service,version,currency,source_id
+2025-01,4100,Subscription revenue,revenue,budget,118000,Sales,Subscriptions,FY26 Budget,USD,2025-01-budget-4100
+2025-01,4100,Subscription revenue,revenue,actual,117291,Sales,Subscriptions,Actual,USD,2025-01-actual-4100
+2025-01,4200,Consulting revenue,revenue,budget,64000,Sales,Consulting,FY26 Budget,USD,2025-01-budget-4200
+2025-01,4200,Consulting revenue,revenue,actual,61558,Sales,Consulting,Actual,USD,2025-01-actual-4200
+2025-01,4300,Support plans,revenue,budget,27000,Operations,Support,FY26 Budget,USD,2025-01-budget-4300
+2025-01,4300,Support plans,revenue,actual,26809,Operations,Support,Actual,USD,2025-01-actual-4300
+2025-01,5100,Hosting & infrastructure,direct_cost,budget,26500,Engineering,Subscriptions,FY26 Budget,USD,2025-01-budget-5100
+2025-01,5100,Hosting & infrastructure,direct_cost,actual,26799,Engineering,Subscriptions,Actual,USD,2025-01-actual-5100
+2025-01,5200,Delivery team,direct_cost,budget,38000,Operations,Consulting,FY26 Budget,USD,2025-01-budget-5200
+2025-01,5200,Delivery team,direct_cost,actual,37539,Operations,Consulting,Actual,USD,2025-01-actual-5200
+2025-01,5300,Support staff,direct_cost,budget,12500,Operations,Support,FY26 Budget,USD,2025-01-budget-5300
+2025-01,5300,Support staff,direct_cost,actual,12713,Operations,Support,Actual,USD,2025-01-actual-5300
+2025-01,6100,Salaries & benefits,opex,budget,52000,Engineering,General,FY26 Budget,USD,2025-01-budget-6100
+2025-01,6100,Salaries & benefits,opex,actual,52499,Engineering,General,Actual,USD,2025-01-actual-6100
+2025-01,6200,Marketing programmes,opex,budget,21000,Marketing,General,FY26 Budget,USD,2025-01-budget-6200
+2025-01,6200,Marketing programmes,opex,actual,20950,Marketing,General,Actual,USD,2025-01-actual-6200
+2025-01,6300,Software & tools,opex,budget,7200,Engineering,General,FY26 Budget,USD,2025-01-budget-6300
+2025-01,6300,Software & tools,opex,actual,7187,Engineering,General,Actual,USD,2025-01-actual-6300
+2025-01,6400,Rent & utilities,opex,budget,9800,Admin,General,FY26 Budget,USD,2025-01-budget-6400
+2025-01,6400,Rent & utilities,opex,actual,10010,Admin,General,Actual,USD,2025-01-actual-6400
+2025-01,6500,Travel & events,opex,budget,6400,Sales,General,FY26 Budget,USD,2025-01-budget-6500
+2025-01,6500,Travel & events,opex,actual,6147,Sales,General,Actual,USD,2025-01-actual-6500
+2025-01,6600,Professional fees,opex,budget,5200,Admin,General,FY26 Budget,USD,2025-01-budget-6600
+2025-01,6600,Professional fees,opex,actual,5234,Admin,General,Actual,USD,2025-01-actual-6600
+2025-02,4100,Subscription revenue,revenue,budget,120991,Sales,Subscriptions,FY26 Budget,USD,2025-02-budget-4100
+2025-02,4100,Subscription revenue,revenue,actual,120292,Sales,Subscriptions,Actual,USD,2025-02-actual-4100
+2025-02,4200,Consulting revenue,revenue,budget,65756,Sales,Consulting,FY26 Budget,USD,2025-02-budget-4200
+2025-02,4200,Consulting revenue,revenue,actual,65424,Sales,Consulting,Actual,USD,2025-02-actual-4200
+2025-02,4300,Support plans,revenue,budget,27292,Operations,Support,FY26 Budget,USD,2025-02-budget-4300
+2025-02,4300,Support plans,revenue,actual,26986,Operations,Support,Actual,USD,2025-02-actual-4300
+2025-02,5100,Hosting & infrastructure,direct_cost,budget,26858,Engineering,Subscriptions,FY26 Budget,USD,2025-02-budget-5100
+2025-02,5100,Hosting & infrastructure,direct_cost,actual,27638,Engineering,Subscriptions,Actual,USD,2025-02-actual-5100
+2025-02,5200,Delivery team,direct_cost,budget,38205,Operations,Consulting,FY26 Budget,USD,2025-02-budget-5200
+2025-02,5200,Delivery team,direct_cost,actual,37859,Operations,Consulting,Actual,USD,2025-02-actual-5200
+2025-02,5300,Support staff,direct_cost,budget,12612,Operations,Support,FY26 Budget,USD,2025-02-budget-5300
+2025-02,5300,Support staff,direct_cost,actual,12885,Operations,Support,Actual,USD,2025-02-actual-5300
+2025-02,6100,Salaries & benefits,opex,budget,52421,Engineering,General,FY26 Budget,USD,2025-02-budget-6100
+2025-02,6100,Salaries & benefits,opex,actual,52785,Engineering,General,Actual,USD,2025-02-actual-6100
+2025-02,6200,Marketing programmes,opex,budget,21864,Marketing,General,FY26 Budget,USD,2025-02-budget-6200
+2025-02,6200,Marketing programmes,opex,actual,21770,Marketing,General,Actual,USD,2025-02-actual-6200
+2025-02,6300,Software & tools,opex,budget,7252,Engineering,General,FY26 Budget,USD,2025-02-budget-6300
+2025-02,6300,Software & tools,opex,actual,7401,Engineering,General,Actual,USD,2025-02-actual-6300
+2025-02,6400,Rent & utilities,opex,budget,9809,Admin,General,FY26 Budget,USD,2025-02-budget-6400
+2025-02,6400,Rent & utilities,opex,actual,10041,Admin,General,Actual,USD,2025-02-actual-6400
+2025-02,6500,Travel & events,opex,budget,6712,Sales,General,FY26 Budget,USD,2025-02-budget-6500
+2025-02,6500,Travel & events,opex,actual,6481,Sales,General,Actual,USD,2025-02-actual-6500
+2025-02,6600,Professional fees,opex,budget,5209,Admin,General,FY26 Budget,USD,2025-02-budget-6600
+2025-02,6600,Professional fees,opex,actual,5271,Admin,General,Actual,USD,2025-02-actual-6600
+2025-03,4100,Subscription revenue,revenue,budget,123754,Sales,Subscriptions,FY26 Budget,USD,2025-03-budget-4100
+2025-03,4100,Subscription revenue,revenue,actual,124029,Sales,Subscriptions,Actual,USD,2025-03-actual-4100
+2025-03,4200,Consulting revenue,revenue,budget,67166,Sales,Consulting,FY26 Budget,USD,2025-03-budget-4200
+2025-03,4200,Consulting revenue,revenue,actual,65063,Sales,Consulting,Actual,USD,2025-03-actual-4200
+2025-03,4300,Support plans,revenue,budget,27586,Operations,Support,FY26 Budget,USD,2025-03-budget-4300
+2025-03,4300,Support plans,revenue,actual,27535,Operations,Support,Actual,USD,2025-03-actual-4300
+2025-03,5100,Hosting & infrastructure,direct_cost,budget,27220,Engineering,Subscriptions,FY26 Budget,USD,2025-03-budget-5100
+2025-03,5100,Hosting & infrastructure,direct_cost,actual,27627,Engineering,Subscriptions,Actual,USD,2025-03-actual-5100
+2025-03,5200,Delivery team,direct_cost,budget,38412,Operations,Consulting,FY26 Budget,USD,2025-03-budget-5200
+2025-03,5200,Delivery team,direct_cost,actual,38849,Operations,Consulting,Actual,USD,2025-03-actual-5200
+2025-03,5300,Support staff,direct_cost,budget,12726,Operations,Support,FY26 Budget,USD,2025-03-budget-5300
+2025-03,5300,Support staff,direct_cost,actual,12800,Operations,Support,Actual,USD,2025-03-actual-5300
+2025-03,6100,Salaries & benefits,opex,budget,52846,Engineering,General,FY26 Budget,USD,2025-03-budget-6100
+2025-03,6100,Salaries & benefits,opex,actual,52268,Engineering,General,Actual,USD,2025-03-actual-6100
+2025-03,6200,Marketing programmes,opex,budget,22571,Marketing,General,FY26 Budget,USD,2025-03-budget-6200
+2025-03,6200,Marketing programmes,opex,actual,22121,Marketing,General,Actual,USD,2025-03-actual-6200
+2025-03,6300,Software & tools,opex,budget,7304,Engineering,General,FY26 Budget,USD,2025-03-budget-6300
+2025-03,6300,Software & tools,opex,actual,7367,Engineering,General,Actual,USD,2025-03-actual-6300
+2025-03,6400,Rent & utilities,opex,budget,9818,Admin,General,FY26 Budget,USD,2025-03-budget-6400
+2025-03,6400,Rent & utilities,opex,actual,9605,Admin,General,Actual,USD,2025-03-actual-6400
+2025-03,6500,Travel & events,opex,budget,6949,Sales,General,FY26 Budget,USD,2025-03-budget-6500
+2025-03,6500,Travel & events,opex,actual,6698,Sales,General,Actual,USD,2025-03-actual-6500
+2025-03,6600,Professional fees,opex,budget,5219,Admin,General,FY26 Budget,USD,2025-03-budget-6600
+2025-03,6600,Professional fees,opex,actual,5312,Admin,General,Actual,USD,2025-03-actual-6600
+2025-04,4100,Subscription revenue,revenue,budget,126057,Sales,Subscriptions,FY26 Budget,USD,2025-04-budget-4100
+2025-04,4100,Subscription revenue,revenue,actual,128711,Sales,Subscriptions,Actual,USD,2025-04-actual-4100
+2025-04,4200,Consulting revenue,revenue,budget,67956,Sales,Consulting,FY26 Budget,USD,2025-04-budget-4200
+2025-04,4200,Consulting revenue,revenue,actual,64708,Sales,Consulting,Actual,USD,2025-04-actual-4200
+2025-04,4300,Support plans,revenue,budget,27884,Operations,Support,FY26 Budget,USD,2025-04-budget-4300
+2025-04,4300,Support plans,revenue,actual,28654,Operations,Support,Actual,USD,2025-04-actual-4300
+2025-04,5100,Hosting & infrastructure,direct_cost,budget,27588,Engineering,Subscriptions,FY26 Budget,USD,2025-04-budget-5100
+2025-04,5100,Hosting & infrastructure,direct_cost,actual,28197,Engineering,Subscriptions,Actual,USD,2025-04-actual-5100
+2025-04,5200,Delivery team,direct_cost,budget,38619,Operations,Consulting,FY26 Budget,USD,2025-04-budget-5200
+2025-04,5200,Delivery team,direct_cost,actual,38475,Operations,Consulting,Actual,USD,2025-04-actual-5200
+2025-04,5300,Support staff,direct_cost,budget,12841,Operations,Support,FY26 Budget,USD,2025-04-budget-5300
+2025-04,5300,Support staff,direct_cost,actual,13095,Operations,Support,Actual,USD,2025-04-actual-5300
+2025-04,6100,Salaries & benefits,opex,budget,53274,Engineering,General,FY26 Budget,USD,2025-04-budget-6100
+2025-04,6100,Salaries & benefits,opex,actual,53702,Engineering,General,Actual,USD,2025-04-actual-6100
+2025-04,6200,Marketing programmes,opex,budget,22989,Marketing,General,FY26 Budget,USD,2025-04-budget-6200
+2025-04,6200,Marketing programmes,opex,actual,21698,Marketing,General,Actual,USD,2025-04-actual-6200
+2025-04,6300,Software & tools,opex,budget,7357,Engineering,General,FY26 Budget,USD,2025-04-budget-6300
+2025-04,6300,Software & tools,opex,actual,7616,Engineering,General,Actual,USD,2025-04-actual-6300
+2025-04,6400,Rent & utilities,opex,budget,9826,Admin,General,FY26 Budget,USD,2025-04-budget-6400
+2025-04,6400,Rent & utilities,opex,actual,9584,Admin,General,Actual,USD,2025-04-actual-6400
+2025-04,6500,Travel & events,opex,budget,7052,Sales,General,FY26 Budget,USD,2025-04-budget-6500
+2025-04,6500,Travel & events,opex,actual,6596,Sales,General,Actual,USD,2025-04-actual-6500
+2025-04,6600,Professional fees,opex,budget,5228,Admin,General,FY26 Budget,USD,2025-04-budget-6600
+2025-04,6600,Professional fees,opex,actual,5395,Admin,General,Actual,USD,2025-04-actual-6600
+2025-05,4100,Subscription revenue,revenue,budget,127796,Sales,Subscriptions,FY26 Budget,USD,2025-05-budget-4100
+2025-05,4100,Subscription revenue,revenue,actual,129472,Sales,Subscriptions,Actual,USD,2025-05-actual-4100
+2025-05,4200,Consulting revenue,revenue,budget,68015,Sales,Consulting,FY26 Budget,USD,2025-05-budget-4200
+2025-05,4200,Consulting revenue,revenue,actual,67232,Sales,Consulting,Actual,USD,2025-05-actual-4200
+2025-05,4300,Support plans,revenue,budget,28185,Operations,Support,FY26 Budget,USD,2025-05-budget-4300
+2025-05,4300,Support plans,revenue,actual,29111,Operations,Support,Actual,USD,2025-05-actual-4300
+2025-05,5100,Hosting & infrastructure,direct_cost,budget,27960,Engineering,Subscriptions,FY26 Budget,USD,2025-05-budget-5100
+2025-05,5100,Hosting & infrastructure,direct_cost,actual,28697,Engineering,Subscriptions,Actual,USD,2025-05-actual-5100
+2025-05,5200,Delivery team,direct_cost,budget,38827,Operations,Consulting,FY26 Budget,USD,2025-05-budget-5200
+2025-05,5200,Delivery team,direct_cost,actual,39097,Operations,Consulting,Actual,USD,2025-05-actual-5200
+2025-05,5300,Support staff,direct_cost,budget,12956,Operations,Support,FY26 Budget,USD,2025-05-budget-5300
+2025-05,5300,Support staff,direct_cost,actual,13200,Operations,Support,Actual,USD,2025-05-actual-5300
+2025-05,6100,Salaries & benefits,opex,budget,53705,Engineering,General,FY26 Budget,USD,2025-05-budget-6100
+2025-05,6100,Salaries & benefits,opex,actual,54450,Engineering,General,Actual,USD,2025-05-actual-6100
+2025-05,6200,Marketing programmes,opex,budget,23061,Marketing,General,FY26 Budget,USD,2025-05-budget-6200
+2025-05,6200,Marketing programmes,opex,actual,22201,Marketing,General,Actual,USD,2025-05-actual-6200
+2025-05,6300,Software & tools,opex,budget,7410,Engineering,General,FY26 Budget,USD,2025-05-budget-6300
+2025-05,6300,Software & tools,opex,actual,7562,Engineering,General,Actual,USD,2025-05-actual-6300
+2025-05,6400,Rent & utilities,opex,budget,9835,Admin,General,FY26 Budget,USD,2025-05-budget-6400
+2025-05,6400,Rent & utilities,opex,actual,9775,Admin,General,Actual,USD,2025-05-actual-6400
+2025-05,6500,Travel & events,opex,budget,6999,Sales,General,FY26 Budget,USD,2025-05-budget-6500
+2025-05,6500,Travel & events,opex,actual,6519,Sales,General,Actual,USD,2025-05-actual-6500
+2025-05,6600,Professional fees,opex,budget,5238,Admin,General,FY26 Budget,USD,2025-05-budget-6600
+2025-05,6600,Professional fees,opex,actual,5447,Admin,General,Actual,USD,2025-05-actual-6600
+2025-06,4100,Subscription revenue,revenue,budget,129024,Sales,Subscriptions,FY26 Budget,USD,2025-06-budget-4100
+2025-06,4100,Subscription revenue,revenue,actual,135071,Sales,Subscriptions,Actual,USD,2025-06-actual-4100
+2025-06,4200,Consulting revenue,revenue,budget,67428,Sales,Consulting,FY26 Budget,USD,2025-06-budget-4200
+2025-06,4200,Consulting revenue,revenue,actual,63694,Sales,Consulting,Actual,USD,2025-06-actual-4200
+2025-06,4300,Support plans,revenue,budget,28490,Operations,Support,FY26 Budget,USD,2025-06-budget-4300
+2025-06,4300,Support plans,revenue,actual,28714,Operations,Support,Actual,USD,2025-06-actual-4300
+2025-06,5100,Hosting & infrastructure,direct_cost,budget,28338,Engineering,Subscriptions,FY26 Budget,USD,2025-06-budget-5100
+2025-06,5100,Hosting & infrastructure,direct_cost,actual,29532,Engineering,Subscriptions,Actual,USD,2025-06-actual-5100
+2025-06,5200,Delivery team,direct_cost,budget,39037,Operations,Consulting,FY26 Budget,USD,2025-06-budget-5200
+2025-06,5200,Delivery team,direct_cost,actual,38477,Operations,Consulting,Actual,USD,2025-06-actual-5200
+2025-06,5300,Support staff,direct_cost,budget,13073,Operations,Support,FY26 Budget,USD,2025-06-budget-5300
+2025-06,5300,Support staff,direct_cost,actual,13364,Operations,Support,Actual,USD,2025-06-actual-5300
+2025-06,6100,Salaries & benefits,opex,budget,54140,Engineering,General,FY26 Budget,USD,2025-06-budget-6100
+2025-06,6100,Salaries & benefits,opex,actual,55618,Engineering,General,Actual,USD,2025-06-actual-6100
+2025-06,6200,Marketing programmes,opex,budget,22824,Marketing,General,FY26 Budget,USD,2025-06-budget-6200
+2025-06,6200,Marketing programmes,opex,actual,22148,Marketing,General,Actual,USD,2025-06-actual-6200
+2025-06,6300,Software & tools,opex,budget,7463,Engineering,General,FY26 Budget,USD,2025-06-budget-6300
+2025-06,6300,Software & tools,opex,actual,7561,Engineering,General,Actual,USD,2025-06-actual-6300
+2025-06,6400,Rent & utilities,opex,budget,9844,Admin,General,FY26 Budget,USD,2025-06-budget-6400
+2025-06,6400,Rent & utilities,opex,actual,9977,Admin,General,Actual,USD,2025-06-actual-6400
+2025-06,6500,Travel & events,opex,budget,6809,Sales,General,FY26 Budget,USD,2025-06-budget-6500
+2025-06,6500,Travel & events,opex,actual,6422,Sales,General,Actual,USD,2025-06-actual-6500
+2025-06,6600,Professional fees,opex,budget,5247,Admin,General,FY26 Budget,USD,2025-06-budget-6600
+2025-06,6600,Professional fees,opex,actual,5474,Admin,General,Actual,USD,2025-06-actual-6600
+2025-07,4100,Subscription revenue,revenue,budget,129944,Sales,Subscriptions,FY26 Budget,USD,2025-07-budget-4100
+2025-07,4100,Subscription revenue,revenue,actual,136538,Sales,Subscriptions,Actual,USD,2025-07-actual-4100
+2025-07,4200,Consulting revenue,revenue,budget,66458,Sales,Consulting,FY26 Budget,USD,2025-07-budget-4200
+2025-07,4200,Consulting revenue,revenue,actual,64762,Sales,Consulting,Actual,USD,2025-07-actual-4200
+2025-07,4300,Support plans,revenue,budget,28798,Operations,Support,FY26 Budget,USD,2025-07-budget-4300
+2025-07,4300,Support plans,revenue,actual,28711,Operations,Support,Actual,USD,2025-07-actual-4300
+2025-07,5100,Hosting & infrastructure,direct_cost,budget,28720,Engineering,Subscriptions,FY26 Budget,USD,2025-07-budget-5100
+2025-07,5100,Hosting & infrastructure,direct_cost,actual,30040,Engineering,Subscriptions,Actual,USD,2025-07-actual-5100
+2025-07,5200,Delivery team,direct_cost,budget,39248,Operations,Consulting,FY26 Budget,USD,2025-07-budget-5200
+2025-07,5200,Delivery team,direct_cost,actual,37624,Operations,Consulting,Actual,USD,2025-07-actual-5200
+2025-07,5300,Support staff,direct_cost,budget,13190,Operations,Support,FY26 Budget,USD,2025-07-budget-5300
+2025-07,5300,Support staff,direct_cost,actual,12951,Operations,Support,Actual,USD,2025-07-actual-5300
+2025-07,6100,Salaries & benefits,opex,budget,54579,Engineering,General,FY26 Budget,USD,2025-07-budget-6100
+2025-07,6100,Salaries & benefits,opex,actual,54531,Engineering,General,Actual,USD,2025-07-actual-6100
+2025-07,6200,Marketing programmes,opex,budget,22398,Marketing,General,FY26 Budget,USD,2025-07-budget-6200
+2025-07,6200,Marketing programmes,opex,actual,21248,Marketing,General,Actual,USD,2025-07-actual-6200
+2025-07,6300,Software & tools,opex,budget,7517,Engineering,General,FY26 Budget,USD,2025-07-budget-6300
+2025-07,6300,Software & tools,opex,actual,7682,Engineering,General,Actual,USD,2025-07-actual-6300
+2025-07,6400,Rent & utilities,opex,budget,9853,Admin,General,FY26 Budget,USD,2025-07-budget-6400
+2025-07,6400,Rent & utilities,opex,actual,9727,Admin,General,Actual,USD,2025-07-actual-6400
+2025-07,6500,Travel & events,opex,budget,6539,Sales,General,FY26 Budget,USD,2025-07-budget-6500
+2025-07,6500,Travel & events,opex,actual,5978,Sales,General,Actual,USD,2025-07-actual-6500
+2025-07,6600,Professional fees,opex,budget,5256,Admin,General,FY26 Budget,USD,2025-07-budget-6600
+2025-07,6600,Professional fees,opex,actual,5473,Admin,General,Actual,USD,2025-07-actual-6600
+2025-08,4100,Subscription revenue,revenue,budget,130861,Sales,Subscriptions,FY26 Budget,USD,2025-08-budget-4100
+2025-08,4100,Subscription revenue,revenue,actual,137652,Sales,Subscriptions,Actual,USD,2025-08-actual-4100
+2025-08,4200,Consulting revenue,revenue,budget,65472,Sales,Consulting,FY26 Budget,USD,2025-08-budget-4200
+2025-08,4200,Consulting revenue,revenue,actual,61786,Sales,Consulting,Actual,USD,2025-08-actual-4200
+2025-08,4300,Support plans,revenue,budget,29109,Operations,Support,FY26 Budget,USD,2025-08-budget-4300
+2025-08,4300,Support plans,revenue,actual,29662,Operations,Support,Actual,USD,2025-08-actual-4300
+2025-08,5100,Hosting & infrastructure,direct_cost,budget,29108,Engineering,Subscriptions,FY26 Budget,USD,2025-08-budget-5100
+2025-08,5100,Hosting & infrastructure,direct_cost,actual,29962,Engineering,Subscriptions,Actual,USD,2025-08-actual-5100
+2025-08,5200,Delivery team,direct_cost,budget,39460,Operations,Consulting,FY26 Budget,USD,2025-08-budget-5200
+2025-08,5200,Delivery team,direct_cost,actual,37679,Operations,Consulting,Actual,USD,2025-08-actual-5200
+2025-08,5300,Support staff,direct_cost,budget,13309,Operations,Support,FY26 Budget,USD,2025-08-budget-5300
+2025-08,5300,Support staff,direct_cost,actual,13547,Operations,Support,Actual,USD,2025-08-actual-5300
+2025-08,6100,Salaries & benefits,opex,budget,55021,Engineering,General,FY26 Budget,USD,2025-08-budget-6100
+2025-08,6100,Salaries & benefits,opex,actual,55654,Engineering,General,Actual,USD,2025-08-actual-6100
+2025-08,6200,Marketing programmes,opex,budget,21961,Marketing,General,FY26 Budget,USD,2025-08-budget-6200
+2025-08,6200,Marketing programmes,opex,actual,20859,Marketing,General,Actual,USD,2025-08-actual-6200
+2025-08,6300,Software & tools,opex,budget,7571,Engineering,General,FY26 Budget,USD,2025-08-budget-6300
+2025-08,6300,Software & tools,opex,actual,8082,Engineering,General,Actual,USD,2025-08-actual-6300
+2025-08,6400,Rent & utilities,opex,budget,9862,Admin,General,FY26 Budget,USD,2025-08-budget-6400
+2025-08,6400,Rent & utilities,opex,actual,10062,Admin,General,Actual,USD,2025-08-actual-6400
+2025-08,6500,Travel & events,opex,budget,6268,Sales,General,FY26 Budget,USD,2025-08-budget-6500
+2025-08,6500,Travel & events,opex,actual,5689,Sales,General,Actual,USD,2025-08-actual-6500
+2025-08,6600,Professional fees,opex,budget,5266,Admin,General,FY26 Budget,USD,2025-08-budget-6600
+2025-08,6600,Professional fees,opex,actual,5529,Admin,General,Actual,USD,2025-08-actual-6600
+2025-09,4100,Subscription revenue,revenue,budget,132097,Sales,Subscriptions,FY26 Budget,USD,2025-09-budget-4100
+2025-09,4100,Subscription revenue,revenue,actual,135374,Sales,Subscriptions,Actual,USD,2025-09-actual-4100
+2025-09,4200,Consulting revenue,revenue,budget,64850,Sales,Consulting,FY26 Budget,USD,2025-09-budget-4200
+2025-09,4200,Consulting revenue,revenue,actual,61192,Sales,Consulting,Actual,USD,2025-09-actual-4200
+2025-09,4300,Support plans,revenue,budget,29423,Operations,Support,FY26 Budget,USD,2025-09-budget-4300
+2025-09,4300,Support plans,revenue,actual,30280,Operations,Support,Actual,USD,2025-09-actual-4300
+2025-09,5100,Hosting & infrastructure,direct_cost,budget,29501,Engineering,Subscriptions,FY26 Budget,USD,2025-09-budget-5100
+2025-09,5100,Hosting & infrastructure,direct_cost,actual,30012,Engineering,Subscriptions,Actual,USD,2025-09-actual-5100
+2025-09,5200,Delivery team,direct_cost,budget,39673,Operations,Consulting,FY26 Budget,USD,2025-09-budget-5200
+2025-09,5200,Delivery team,direct_cost,actual,37818,Operations,Consulting,Actual,USD,2025-09-actual-5200
+2025-09,5300,Support staff,direct_cost,budget,13429,Operations,Support,FY26 Budget,USD,2025-09-budget-5300
+2025-09,5300,Support staff,direct_cost,actual,13788,Operations,Support,Actual,USD,2025-09-actual-5300
+2025-09,6100,Salaries & benefits,opex,budget,55467,Engineering,General,FY26 Budget,USD,2025-09-budget-6100
+2025-09,6100,Salaries & benefits,opex,actual,55202,Engineering,General,Actual,USD,2025-09-actual-6100
+2025-09,6200,Marketing programmes,opex,budget,21695,Marketing,General,FY26 Budget,USD,2025-09-budget-6200
+2025-09,6200,Marketing programmes,opex,actual,20310,Marketing,General,Actual,USD,2025-09-actual-6200
+2025-09,6300,Software & tools,opex,budget,7625,Engineering,General,FY26 Budget,USD,2025-09-budget-6300
+2025-09,6300,Software & tools,opex,actual,7993,Engineering,General,Actual,USD,2025-09-actual-6300
+2025-09,6400,Rent & utilities,opex,budget,9871,Admin,General,FY26 Budget,USD,2025-09-budget-6400
+2025-09,6400,Rent & utilities,opex,actual,10064,Admin,General,Actual,USD,2025-09-actual-6400
+2025-09,6500,Travel & events,opex,budget,6073,Sales,General,FY26 Budget,USD,2025-09-budget-6500
+2025-09,6500,Travel & events,opex,actual,5397,Sales,General,Actual,USD,2025-09-actual-6500
+2025-09,6600,Professional fees,opex,budget,5275,Admin,General,FY26 Budget,USD,2025-09-budget-6600
+2025-09,6600,Professional fees,opex,actual,5592,Admin,General,Actual,USD,2025-09-actual-6600
+2025-10,4100,Subscription revenue,revenue,budget,133908,Sales,Subscriptions,FY26 Budget,USD,2025-10-budget-4100
+2025-10,4100,Subscription revenue,revenue,actual,136234,Sales,Subscriptions,Actual,USD,2025-10-actual-4100
+2025-10,4200,Consulting revenue,revenue,budget,64877,Sales,Consulting,FY26 Budget,USD,2025-10-budget-4200
+2025-10,4200,Consulting revenue,revenue,actual,62053,Sales,Consulting,Actual,USD,2025-10-actual-4200
+2025-10,4300,Support plans,revenue,budget,29741,Operations,Support,FY26 Budget,USD,2025-10-budget-4300
+2025-10,4300,Support plans,revenue,actual,30696,Operations,Support,Actual,USD,2025-10-actual-4300
+2025-10,5100,Hosting & infrastructure,direct_cost,budget,29899,Engineering,Subscriptions,FY26 Budget,USD,2025-10-budget-5100
+2025-10,5100,Hosting & infrastructure,direct_cost,actual,30581,Engineering,Subscriptions,Actual,USD,2025-10-actual-5100
+2025-10,5200,Delivery team,direct_cost,budget,39887,Operations,Consulting,FY26 Budget,USD,2025-10-budget-5200
+2025-10,5200,Delivery team,direct_cost,actual,39191,Operations,Consulting,Actual,USD,2025-10-actual-5200
+2025-10,5300,Support staff,direct_cost,budget,13550,Operations,Support,FY26 Budget,USD,2025-10-budget-5300
+2025-10,5300,Support staff,direct_cost,actual,13497,Operations,Support,Actual,USD,2025-10-actual-5300
+2025-10,6100,Salaries & benefits,opex,budget,55916,Engineering,General,FY26 Budget,USD,2025-10-budget-6100
+2025-10,6100,Salaries & benefits,opex,actual,57924,Engineering,General,Actual,USD,2025-10-actual-6100
+2025-10,6200,Marketing programmes,opex,budget,21744,Marketing,General,FY26 Budget,USD,2025-10-budget-6200
+2025-10,6200,Marketing programmes,opex,actual,20546,Marketing,General,Actual,USD,2025-10-actual-6200
+2025-10,6300,Software & tools,opex,budget,7680,Engineering,General,FY26 Budget,USD,2025-10-budget-6300
+2025-10,6300,Software & tools,opex,actual,8160,Engineering,General,Actual,USD,2025-10-actual-6300
+2025-10,6400,Rent & utilities,opex,budget,9880,Admin,General,FY26 Budget,USD,2025-10-budget-6400
+2025-10,6400,Rent & utilities,opex,actual,9794,Admin,General,Actual,USD,2025-10-actual-6400
+2025-10,6500,Travel & events,opex,budget,6015,Sales,General,FY26 Budget,USD,2025-10-budget-6500
+2025-10,6500,Travel & events,opex,actual,5578,Sales,General,Actual,USD,2025-10-actual-6500
+2025-10,6600,Professional fees,opex,budget,5285,Admin,General,FY26 Budget,USD,2025-10-budget-6600
+2025-10,6600,Professional fees,opex,actual,5665,Admin,General,Actual,USD,2025-10-actual-6600
+2025-11,4100,Subscription revenue,revenue,budget,136411,Sales,Subscriptions,FY26 Budget,USD,2025-11-budget-4100
+2025-11,4100,Subscription revenue,revenue,actual,140132,Sales,Subscriptions,Actual,USD,2025-11-actual-4100
+2025-11,4200,Consulting revenue,revenue,budget,65669,Sales,Consulting,FY26 Budget,USD,2025-11-budget-4200
+2025-11,4200,Consulting revenue,revenue,actual,60901,Sales,Consulting,Actual,USD,2025-11-actual-4200
+2025-11,4300,Support plans,revenue,budget,30062,Operations,Support,FY26 Budget,USD,2025-11-budget-4300
+2025-11,4300,Support plans,revenue,actual,31260,Operations,Support,Actual,USD,2025-11-actual-4300
+2025-11,5100,Hosting & infrastructure,direct_cost,budget,30303,Engineering,Subscriptions,FY26 Budget,USD,2025-11-budget-5100
+2025-11,5100,Hosting & infrastructure,direct_cost,actual,31187,Engineering,Subscriptions,Actual,USD,2025-11-actual-5100
+2025-11,5200,Delivery team,direct_cost,budget,40103,Operations,Consulting,FY26 Budget,USD,2025-11-budget-5200
+2025-11,5200,Delivery team,direct_cost,actual,39930,Operations,Consulting,Actual,USD,2025-11-actual-5200
+2025-11,5300,Support staff,direct_cost,budget,13672,Operations,Support,FY26 Budget,USD,2025-11-budget-5300
+2025-11,5300,Support staff,direct_cost,actual,14049,Operations,Support,Actual,USD,2025-11-actual-5300
+2025-11,6100,Salaries & benefits,opex,budget,56369,Engineering,General,FY26 Budget,USD,2025-11-budget-6100
+2025-11,6100,Salaries & benefits,opex,actual,56095,Engineering,General,Actual,USD,2025-11-actual-6100
+2025-11,6200,Marketing programmes,opex,budget,22167,Marketing,General,FY26 Budget,USD,2025-11-budget-6200
+2025-11,6200,Marketing programmes,opex,actual,20532,Marketing,General,Actual,USD,2025-11-actual-6200
+2025-11,6300,Software & tools,opex,budget,7736,Engineering,General,FY26 Budget,USD,2025-11-budget-6300
+2025-11,6300,Software & tools,opex,actual,8243,Engineering,General,Actual,USD,2025-11-actual-6300
+2025-11,6400,Rent & utilities,opex,budget,9889,Admin,General,FY26 Budget,USD,2025-11-budget-6400
+2025-11,6400,Rent & utilities,opex,actual,10075,Admin,General,Actual,USD,2025-11-actual-6400
+2025-11,6500,Travel & events,opex,budget,6117,Sales,General,FY26 Budget,USD,2025-11-budget-6500
+2025-11,6500,Travel & events,opex,actual,5441,Sales,General,Actual,USD,2025-11-actual-6500
+2025-11,6600,Professional fees,opex,budget,5294,Admin,General,FY26 Budget,USD,2025-11-budget-6600
+2025-11,6600,Professional fees,opex,actual,5769,Admin,General,Actual,USD,2025-11-actual-6600
+2025-12,4100,Subscription revenue,revenue,budget,139549,Sales,Subscriptions,FY26 Budget,USD,2025-12-budget-4100
+2025-12,4100,Subscription revenue,revenue,actual,148104,Sales,Subscriptions,Actual,USD,2025-12-actual-4100
+2025-12,4200,Consulting revenue,revenue,budget,67137,Sales,Consulting,FY26 Budget,USD,2025-12-budget-4200
+2025-12,4200,Consulting revenue,revenue,actual,60904,Sales,Consulting,Actual,USD,2025-12-actual-4200
+2025-12,4300,Support plans,revenue,budget,30387,Operations,Support,FY26 Budget,USD,2025-12-budget-4300
+2025-12,4300,Support plans,revenue,actual,30934,Operations,Support,Actual,USD,2025-12-actual-4300
+2025-12,5100,Hosting & infrastructure,direct_cost,budget,30712,Engineering,Subscriptions,FY26 Budget,USD,2025-12-budget-5100
+2025-12,5100,Hosting & infrastructure,direct_cost,actual,31902,Engineering,Subscriptions,Actual,USD,2025-12-actual-5100
+2025-12,5200,Delivery team,direct_cost,budget,40319,Operations,Consulting,FY26 Budget,USD,2025-12-budget-5200
+2025-12,5200,Delivery team,direct_cost,actual,39926,Operations,Consulting,Actual,USD,2025-12-actual-5200
+2025-12,5300,Support staff,direct_cost,budget,13795,Operations,Support,FY26 Budget,USD,2025-12-budget-5300
+2025-12,5300,Support staff,direct_cost,actual,14163,Operations,Support,Actual,USD,2025-12-actual-5300
+2025-12,6100,Salaries & benefits,opex,budget,56825,Engineering,General,FY26 Budget,USD,2025-12-budget-6100
+2025-12,6100,Salaries & benefits,opex,actual,58176,Engineering,General,Actual,USD,2025-12-actual-6100
+2025-12,6200,Marketing programmes,opex,budget,22925,Marketing,General,FY26 Budget,USD,2025-12-budget-6200
+2025-12,6200,Marketing programmes,opex,actual,20772,Marketing,General,Actual,USD,2025-12-actual-6200
+2025-12,6300,Software & tools,opex,budget,7791,Engineering,General,FY26 Budget,USD,2025-12-budget-6300
+2025-12,6300,Software & tools,opex,actual,8099,Engineering,General,Actual,USD,2025-12-actual-6300
+2025-12,6400,Rent & utilities,opex,budget,9897,Admin,General,FY26 Budget,USD,2025-12-budget-6400
+2025-12,6400,Rent & utilities,opex,actual,9742,Admin,General,Actual,USD,2025-12-actual-6400
+2025-12,6500,Travel & events,opex,budget,6358,Sales,General,FY26 Budget,USD,2025-12-budget-6500
+2025-12,6500,Travel & events,opex,actual,5579,Sales,General,Actual,USD,2025-12-actual-6500
+2025-12,6600,Professional fees,opex,budget,5304,Admin,General,FY26 Budget,USD,2025-12-budget-6600
+2025-12,6600,Professional fees,opex,actual,5738,Admin,General,Actual,USD,2025-12-actual-6600
+2026-01,4100,Subscription revenue,revenue,budget,143098,Sales,Subscriptions,FY26 Budget,USD,2026-01-budget-4100
+2026-01,4100,Subscription revenue,revenue,actual,146255,Sales,Subscriptions,Actual,USD,2026-01-actual-4100
+2026-01,4200,Consulting revenue,revenue,budget,69010,Sales,Consulting,FY26 Budget,USD,2026-01-budget-4200
+2026-01,4200,Consulting revenue,revenue,actual,65800,Sales,Consulting,Actual,USD,2026-01-actual-4200
+2026-01,4300,Support plans,revenue,budget,30715,Operations,Support,FY26 Budget,USD,2026-01-budget-4300
+2026-01,4300,Support plans,revenue,actual,31536,Operations,Support,Actual,USD,2026-01-actual-4300
+2026-01,5100,Hosting & infrastructure,direct_cost,budget,31127,Engineering,Subscriptions,FY26 Budget,USD,2026-01-budget-5100
+2026-01,5100,Hosting & infrastructure,direct_cost,actual,32109,Engineering,Subscriptions,Actual,USD,2026-01-actual-5100
+2026-01,5200,Delivery team,direct_cost,budget,40537,Operations,Consulting,FY26 Budget,USD,2026-01-budget-5200
+2026-01,5200,Delivery team,direct_cost,actual,39056,Operations,Consulting,Actual,USD,2026-01-actual-5200
+2026-01,5300,Support staff,direct_cost,budget,13919,Operations,Support,FY26 Budget,USD,2026-01-budget-5300
+2026-01,5300,Support staff,direct_cost,actual,13713,Operations,Support,Actual,USD,2026-01-actual-5300
+2026-01,6100,Salaries & benefits,opex,budget,57286,Engineering,General,FY26 Budget,USD,2026-01-budget-6100
+2026-01,6100,Salaries & benefits,opex,actual,57780,Engineering,General,Actual,USD,2026-01-actual-6100
+2026-01,6200,Marketing programmes,opex,budget,23889,Marketing,General,FY26 Budget,USD,2026-01-budget-6200
+2026-01,6200,Marketing programmes,opex,actual,21971,Marketing,General,Actual,USD,2026-01-actual-6200
+2026-01,6300,Software & tools,opex,budget,7847,Engineering,General,FY26 Budget,USD,2026-01-budget-6300
+2026-01,6300,Software & tools,opex,actual,8415,Engineering,General,Actual,USD,2026-01-actual-6300
+2026-01,6400,Rent & utilities,opex,budget,9906,Admin,General,FY26 Budget,USD,2026-01-budget-6400
+2026-01,6400,Rent & utilities,opex,actual,9721,Admin,General,Actual,USD,2026-01-actual-6400
+2026-01,6500,Travel & events,opex,budget,6682,Sales,General,FY26 Budget,USD,2026-01-budget-6500
+2026-01,6500,Travel & events,opex,actual,5904,Sales,General,Actual,USD,2026-01-actual-6500
+2026-01,6600,Professional fees,opex,budget,5313,Admin,General,FY26 Budget,USD,2026-01-budget-6600
+2026-01,6600,Professional fees,opex,actual,5906,Admin,General,Actual,USD,2026-01-actual-6600
+2026-02,4100,Subscription revenue,revenue,budget,146725,Sales,Subscriptions,FY26 Budget,USD,2026-02-budget-4100
+2026-02,4100,Subscription revenue,revenue,actual,152388,Sales,Subscriptions,Actual,USD,2026-02-actual-4100
+2026-02,4200,Consulting revenue,revenue,budget,70903,Sales,Consulting,FY26 Budget,USD,2026-02-budget-4200
+2026-02,4200,Consulting revenue,revenue,actual,66486,Sales,Consulting,Actual,USD,2026-02-actual-4200
+2026-02,4300,Support plans,revenue,budget,31046,Operations,Support,FY26 Budget,USD,2026-02-budget-4300
+2026-02,4300,Support plans,revenue,actual,31548,Operations,Support,Actual,USD,2026-02-actual-4300
+2026-02,5100,Hosting & infrastructure,direct_cost,budget,31547,Engineering,Subscriptions,FY26 Budget,USD,2026-02-budget-5100
+2026-02,5100,Hosting & infrastructure,direct_cost,actual,33098,Engineering,Subscriptions,Actual,USD,2026-02-actual-5100
+2026-02,5200,Delivery team,direct_cost,budget,40756,Operations,Consulting,FY26 Budget,USD,2026-02-budget-5200
+2026-02,5200,Delivery team,direct_cost,actual,39124,Operations,Consulting,Actual,USD,2026-02-actual-5200
+2026-02,5300,Support staff,direct_cost,budget,14044,Operations,Support,FY26 Budget,USD,2026-02-budget-5300
+2026-02,5300,Support staff,direct_cost,actual,14533,Operations,Support,Actual,USD,2026-02-actual-5300
+2026-02,6100,Salaries & benefits,opex,budget,57750,Engineering,General,FY26 Budget,USD,2026-02-budget-6100
+2026-02,6100,Salaries & benefits,opex,actual,59622,Engineering,General,Actual,USD,2026-02-actual-6100
+2026-02,6200,Marketing programmes,opex,budget,24872,Marketing,General,FY26 Budget,USD,2026-02-budget-6200
+2026-02,6200,Marketing programmes,opex,actual,22013,Marketing,General,Actual,USD,2026-02-actual-6200
+2026-02,6300,Software & tools,opex,budget,7904,Engineering,General,FY26 Budget,USD,2026-02-budget-6300
+2026-02,6300,Software & tools,opex,actual,8555,Engineering,General,Actual,USD,2026-02-actual-6300
+2026-02,6400,Rent & utilities,opex,budget,9915,Admin,General,FY26 Budget,USD,2026-02-budget-6400
+2026-02,6400,Rent & utilities,opex,actual,9732,Admin,General,Actual,USD,2026-02-actual-6400
+2026-02,6500,Travel & events,opex,budget,7008,Sales,General,FY26 Budget,USD,2026-02-budget-6500
+2026-02,6500,Travel & events,opex,actual,6138,Sales,General,Actual,USD,2026-02-actual-6500
+2026-02,6600,Professional fees,opex,budget,5323,Admin,General,FY26 Budget,USD,2026-02-budget-6600
+2026-02,6600,Professional fees,opex,actual,5864,Admin,General,Actual,USD,2026-02-actual-6600
+2026-03,4100,Subscription revenue,revenue,budget,150075,Sales,Subscriptions,FY26 Budget,USD,2026-03-budget-4100
+2026-03,4100,Subscription revenue,revenue,actual,157875,Sales,Subscriptions,Actual,USD,2026-03-actual-4100
+2026-03,4200,Consulting revenue,revenue,budget,72424,Sales,Consulting,FY26 Budget,USD,2026-03-budget-4200
+2026-03,4200,Consulting revenue,revenue,actual,67759,Sales,Consulting,Actual,USD,2026-03-actual-4200
+2026-03,4300,Support plans,revenue,budget,31382,Operations,Support,FY26 Budget,USD,2026-03-budget-4300
+2026-03,4300,Support plans,revenue,actual,31578,Operations,Support,Actual,USD,2026-03-actual-4300
+2026-03,5100,Hosting & infrastructure,direct_cost,budget,31973,Engineering,Subscriptions,FY26 Budget,USD,2026-03-budget-5100
+2026-03,5100,Hosting & infrastructure,direct_cost,actual,33455,Engineering,Subscriptions,Actual,USD,2026-03-actual-5100
+2026-03,5200,Delivery team,direct_cost,budget,40976,Operations,Consulting,FY26 Budget,USD,2026-03-budget-5200
+2026-03,5200,Delivery team,direct_cost,actual,40363,Operations,Consulting,Actual,USD,2026-03-actual-5200
+2026-03,5300,Support staff,direct_cost,budget,14171,Operations,Support,FY26 Budget,USD,2026-03-budget-5300
+2026-03,5300,Support staff,direct_cost,actual,14095,Operations,Support,Actual,USD,2026-03-actual-5300
+2026-03,6100,Salaries & benefits,opex,budget,58218,Engineering,General,FY26 Budget,USD,2026-03-budget-6100
+2026-03,6100,Salaries & benefits,opex,actual,58296,Engineering,General,Actual,USD,2026-03-actual-6100
+2026-03,6200,Marketing programmes,opex,budget,25676,Marketing,General,FY26 Budget,USD,2026-03-budget-6200
+2026-03,6200,Marketing programmes,opex,actual,22805,Marketing,General,Actual,USD,2026-03-actual-6200
+2026-03,6300,Software & tools,opex,budget,7961,Engineering,General,FY26 Budget,USD,2026-03-budget-6300
+2026-03,6300,Software & tools,opex,actual,8483,Engineering,General,Actual,USD,2026-03-actual-6300
+2026-03,6400,Rent & utilities,opex,budget,9924,Admin,General,FY26 Budget,USD,2026-03-budget-6400
+2026-03,6400,Rent & utilities,opex,actual,9790,Admin,General,Actual,USD,2026-03-actual-6400
+2026-03,6500,Travel & events,opex,budget,7255,Sales,General,FY26 Budget,USD,2026-03-budget-6500
+2026-03,6500,Travel & events,opex,actual,6514,Sales,General,Actual,USD,2026-03-actual-6500
+2026-03,6600,Professional fees,opex,budget,5333,Admin,General,FY26 Budget,USD,2026-03-budget-6600
+2026-03,6600,Professional fees,opex,actual,5775,Admin,General,Actual,USD,2026-03-actual-6600
+2026-04,4100,Subscription revenue,revenue,budget,152868,Sales,Subscriptions,FY26 Budget,USD,2026-04-budget-4100
+2026-04,4100,Subscription revenue,revenue,actual,161813,Sales,Subscriptions,Actual,USD,2026-04-actual-4100
+2026-04,4200,Consulting revenue,revenue,budget,73276,Sales,Consulting,FY26 Budget,USD,2026-04-budget-4200
+2026-04,4200,Consulting revenue,revenue,actual,69479,Sales,Consulting,Actual,USD,2026-04-actual-4200
+2026-04,4300,Support plans,revenue,budget,31721,Operations,Support,FY26 Budget,USD,2026-04-budget-4300
+2026-04,4300,Support plans,revenue,actual,32983,Operations,Support,Actual,USD,2026-04-actual-4300
+2026-04,5100,Hosting & infrastructure,direct_cost,budget,32404,Engineering,Subscriptions,FY26 Budget,USD,2026-04-budget-5100
+2026-04,5100,Hosting & infrastructure,direct_cost,actual,34136,Engineering,Subscriptions,Actual,USD,2026-04-actual-5100
+2026-04,5200,Delivery team,direct_cost,budget,41197,Operations,Consulting,FY26 Budget,USD,2026-04-budget-5200
+2026-04,5200,Delivery team,direct_cost,actual,39430,Operations,Consulting,Actual,USD,2026-04-actual-5200
+2026-04,5300,Support staff,direct_cost,budget,14298,Operations,Support,FY26 Budget,USD,2026-04-budget-5300
+2026-04,5300,Support staff,direct_cost,actual,14527,Operations,Support,Actual,USD,2026-04-actual-5300
+2026-04,6100,Salaries & benefits,opex,budget,58689,Engineering,General,FY26 Budget,USD,2026-04-budget-6100
+2026-04,6100,Salaries & benefits,opex,actual,61040,Engineering,General,Actual,USD,2026-04-actual-6100
+2026-04,6200,Marketing programmes,opex,budget,26152,Marketing,General,FY26 Budget,USD,2026-04-budget-6200
+2026-04,6200,Marketing programmes,opex,actual,23167,Marketing,General,Actual,USD,2026-04-actual-6200
+2026-04,6300,Software & tools,opex,budget,8018,Engineering,General,FY26 Budget,USD,2026-04-budget-6300
+2026-04,6300,Software & tools,opex,actual,8309,Engineering,General,Actual,USD,2026-04-actual-6300
+2026-04,6400,Rent & utilities,opex,budget,9933,Admin,General,FY26 Budget,USD,2026-04-budget-6400
+2026-04,6400,Rent & utilities,opex,actual,9804,Admin,General,Actual,USD,2026-04-actual-6400
+2026-04,6500,Travel & events,opex,budget,7362,Sales,General,FY26 Budget,USD,2026-04-budget-6500
+2026-04,6500,Travel & events,opex,actual,6516,Sales,General,Actual,USD,2026-04-actual-6500
+2026-04,6600,Professional fees,opex,budget,5342,Admin,General,FY26 Budget,USD,2026-04-budget-6600
+2026-04,6600,Professional fees,opex,actual,5758,Admin,General,Actual,USD,2026-04-actual-6600
+2026-05,4100,Subscription revenue,revenue,budget,154977,Sales,Subscriptions,FY26 Budget,USD,2026-05-budget-4100
+2026-05,4100,Subscription revenue,revenue,actual,158870,Sales,Subscriptions,Actual,USD,2026-05-actual-4100
+2026-05,4200,Consulting revenue,revenue,budget,73339,Sales,Consulting,FY26 Budget,USD,2026-05-budget-4200
+2026-05,4200,Consulting revenue,revenue,actual,66893,Sales,Consulting,Actual,USD,2026-05-actual-4200
+2026-05,4300,Support plans,revenue,budget,32063,Operations,Support,FY26 Budget,USD,2026-05-budget-4300
+2026-05,4300,Support plans,revenue,actual,33401,Operations,Support,Actual,USD,2026-05-actual-4300
+2026-05,5100,Hosting & infrastructure,direct_cost,budget,32842,Engineering,Subscriptions,FY26 Budget,USD,2026-05-budget-5100
+2026-05,5100,Hosting & infrastructure,direct_cost,actual,34865,Engineering,Subscriptions,Actual,USD,2026-05-actual-5100
+2026-05,5200,Delivery team,direct_cost,budget,41420,Operations,Consulting,FY26 Budget,USD,2026-05-budget-5200
+2026-05,5200,Delivery team,direct_cost,actual,40644,Operations,Consulting,Actual,USD,2026-05-actual-5200
+2026-05,5300,Support staff,direct_cost,budget,14427,Operations,Support,FY26 Budget,USD,2026-05-budget-5300
+2026-05,5300,Support staff,direct_cost,actual,14434,Operations,Support,Actual,USD,2026-05-actual-5300
+2026-05,6100,Salaries & benefits,opex,budget,59164,Engineering,General,FY26 Budget,USD,2026-05-budget-6100
+2026-05,6100,Salaries & benefits,opex,actual,60625,Engineering,General,Actual,USD,2026-05-actual-6100
+2026-05,6200,Marketing programmes,opex,budget,26234,Marketing,General,FY26 Budget,USD,2026-05-budget-6200
+2026-05,6200,Marketing programmes,opex,actual,23305,Marketing,General,Actual,USD,2026-05-actual-6200
+2026-05,6300,Software & tools,opex,budget,8076,Engineering,General,FY26 Budget,USD,2026-05-budget-6300
+2026-05,6300,Software & tools,opex,actual,8372,Engineering,General,Actual,USD,2026-05-actual-6300
+2026-05,6400,Rent & utilities,opex,budget,9942,Admin,General,FY26 Budget,USD,2026-05-budget-6400
+2026-05,6400,Rent & utilities,opex,actual,9979,Admin,General,Actual,USD,2026-05-actual-6400
+2026-05,6500,Travel & events,opex,budget,7307,Sales,General,FY26 Budget,USD,2026-05-budget-6500
+2026-05,6500,Travel & events,opex,actual,6621,Sales,General,Actual,USD,2026-05-actual-6500
+2026-05,6600,Professional fees,opex,budget,5352,Admin,General,FY26 Budget,USD,2026-05-budget-6600
+2026-05,6600,Professional fees,opex,actual,5908,Admin,General,Actual,USD,2026-05-actual-6600
+2026-06,4100,Subscription revenue,revenue,budget,156466,Sales,Subscriptions,FY26 Budget,USD,2026-06-budget-4100
+2026-06,4100,Subscription revenue,revenue,actual,159741,Sales,Subscriptions,Actual,USD,2026-06-actual-4100
+2026-06,4200,Consulting revenue,revenue,budget,72706,Sales,Consulting,FY26 Budget,USD,2026-06-budget-4200
+2026-06,4200,Consulting revenue,revenue,actual,66257,Sales,Consulting,Actual,USD,2026-06-actual-4200
+2026-06,4300,Support plans,revenue,budget,32410,Operations,Support,FY26 Budget,USD,2026-06-budget-4300
+2026-06,4300,Support plans,revenue,actual,32881,Operations,Support,Actual,USD,2026-06-actual-4300
+2026-06,5100,Hosting & infrastructure,direct_cost,budget,33285,Engineering,Subscriptions,FY26 Budget,USD,2026-06-budget-5100
+2026-06,5100,Hosting & infrastructure,direct_cost,actual,34709,Engineering,Subscriptions,Actual,USD,2026-06-actual-5100
+2026-06,5200,Delivery team,direct_cost,budget,41643,Operations,Consulting,FY26 Budget,USD,2026-06-budget-5200
+2026-06,5200,Delivery team,direct_cost,actual,41265,Operations,Consulting,Actual,USD,2026-06-actual-5200
+2026-06,5300,Support staff,direct_cost,budget,14557,Operations,Support,FY26 Budget,USD,2026-06-budget-5300
+2026-06,5300,Support staff,direct_cost,actual,14638,Operations,Support,Actual,USD,2026-06-actual-5300
+2026-06,6100,Salaries & benefits,opex,budget,59644,Engineering,General,FY26 Budget,USD,2026-06-budget-6100
+2026-06,6100,Salaries & benefits,opex,actual,62175,Engineering,General,Actual,USD,2026-06-actual-6100
+2026-06,6200,Marketing programmes,opex,budget,25964,Marketing,General,FY26 Budget,USD,2026-06-budget-6200
+2026-06,6200,Marketing programmes,opex,actual,23430,Marketing,General,Actual,USD,2026-06-actual-6200
+2026-06,6300,Software & tools,opex,budget,8134,Engineering,General,FY26 Budget,USD,2026-06-budget-6300
+2026-06,6300,Software & tools,opex,actual,8803,Engineering,General,Actual,USD,2026-06-actual-6300
+2026-06,6400,Rent & utilities,opex,budget,9951,Admin,General,FY26 Budget,USD,2026-06-budget-6400
+2026-06,6400,Rent & utilities,opex,actual,9880,Admin,General,Actual,USD,2026-06-actual-6400
+2026-06,6500,Travel & events,opex,budget,7109,Sales,General,FY26 Budget,USD,2026-06-budget-6500
+2026-06,6500,Travel & events,opex,actual,6301,Sales,General,Actual,USD,2026-06-actual-6500
+2026-06,6600,Professional fees,opex,budget,5361,Admin,General,FY26 Budget,USD,2026-06-budget-6600
+2026-06,6600,Professional fees,opex,actual,5953,Admin,General,Actual,USD,2026-06-actual-6600
+2026-07,4100,Subscription revenue,revenue,budget,157582,Sales,Subscriptions,FY26 Budget,USD,2026-07-budget-4100
+2026-07,4100,Subscription revenue,revenue,actual,164859,Sales,Subscriptions,Actual,USD,2026-07-actual-4100
+2026-07,4200,Consulting revenue,revenue,budget,71660,Sales,Consulting,FY26 Budget,USD,2026-07-budget-4200
+2026-07,4200,Consulting revenue,revenue,actual,66290,Sales,Consulting,Actual,USD,2026-07-actual-4200
+2026-07,4300,Support plans,revenue,budget,32760,Operations,Support,FY26 Budget,USD,2026-07-budget-4300
+2026-07,4300,Support plans,revenue,actual,33324,Operations,Support,Actual,USD,2026-07-actual-4300
+2026-07,5100,Hosting & infrastructure,direct_cost,budget,33734,Engineering,Subscriptions,FY26 Budget,USD,2026-07-budget-5100
+2026-07,5100,Hosting & infrastructure,direct_cost,actual,35928,Engineering,Subscriptions,Actual,USD,2026-07-actual-5100
+2026-07,5200,Delivery team,direct_cost,budget,41868,Operations,Consulting,FY26 Budget,USD,2026-07-budget-5200
+2026-07,5200,Delivery team,direct_cost,actual,41417,Operations,Consulting,Actual,USD,2026-07-actual-5200
+2026-07,5300,Support staff,direct_cost,budget,14688,Operations,Support,FY26 Budget,USD,2026-07-budget-5300
+2026-07,5300,Support staff,direct_cost,actual,15019,Operations,Support,Actual,USD,2026-07-actual-5300
+2026-07,6100,Salaries & benefits,opex,budget,60127,Engineering,General,FY26 Budget,USD,2026-07-budget-6100
+2026-07,6100,Salaries & benefits,opex,actual,59836,Engineering,General,Actual,USD,2026-07-actual-6100
+2026-07,6200,Marketing programmes,opex,budget,25480,Marketing,General,FY26 Budget,USD,2026-07-budget-6200
+2026-07,6200,Marketing programmes,opex,actual,23517,Marketing,General,Actual,USD,2026-07-actual-6200
+2026-07,6300,Software & tools,opex,budget,8192,Engineering,General,FY26 Budget,USD,2026-07-budget-6300
+2026-07,6300,Software & tools,opex,actual,8703,Engineering,General,Actual,USD,2026-07-actual-6300
+2026-07,6400,Rent & utilities,opex,budget,9960,Admin,General,FY26 Budget,USD,2026-07-budget-6400
+2026-07,6400,Rent & utilities,opex,actual,9845,Admin,General,Actual,USD,2026-07-actual-6400
+2026-07,6500,Travel & events,opex,budget,6828,Sales,General,FY26 Budget,USD,2026-07-budget-6500
+2026-07,6500,Travel & events,opex,actual,6216,Sales,General,Actual,USD,2026-07-actual-6500
+2026-07,6600,Professional fees,opex,budget,5371,Admin,General,FY26 Budget,USD,2026-07-budget-6600
+2026-07,6600,Professional fees,opex,actual,5971,Admin,General,Actual,USD,2026-07-actual-6600
+2026-08,4100,Subscription revenue,revenue,budget,158694,Sales,Subscriptions,FY26 Budget,USD,2026-08-budget-4100
+2026-08,4100,Subscription revenue,revenue,actual,166386,Sales,Subscriptions,Actual,USD,2026-08-actual-4100
+2026-08,4200,Consulting revenue,revenue,budget,70597,Sales,Consulting,FY26 Budget,USD,2026-08-budget-4200
+2026-08,4200,Consulting revenue,revenue,actual,65147,Sales,Consulting,Actual,USD,2026-08-actual-4200
+2026-08,4300,Support plans,revenue,budget,33113,Operations,Support,FY26 Budget,USD,2026-08-budget-4300
+2026-08,4300,Support plans,revenue,actual,33373,Operations,Support,Actual,USD,2026-08-actual-4300
+2026-08,5100,Hosting & infrastructure,direct_cost,budget,34190,Engineering,Subscriptions,FY26 Budget,USD,2026-08-budget-5100
+2026-08,5100,Hosting & infrastructure,direct_cost,actual,35797,Engineering,Subscriptions,Actual,USD,2026-08-actual-5100
+2026-08,5200,Delivery team,direct_cost,budget,42094,Operations,Consulting,FY26 Budget,USD,2026-08-budget-5200
+2026-08,5200,Delivery team,direct_cost,actual,41578,Operations,Consulting,Actual,USD,2026-08-actual-5200
+2026-08,5300,Support staff,direct_cost,budget,14820,Operations,Support,FY26 Budget,USD,2026-08-budget-5300
+2026-08,5300,Support staff,direct_cost,actual,15007,Operations,Support,Actual,USD,2026-08-actual-5300
+2026-08,6100,Salaries & benefits,opex,budget,60614,Engineering,General,FY26 Budget,USD,2026-08-budget-6100
+2026-08,6100,Salaries & benefits,opex,actual,62875,Engineering,General,Actual,USD,2026-08-actual-6100
+2026-08,6200,Marketing programmes,opex,budget,24982,Marketing,General,FY26 Budget,USD,2026-08-budget-6200
+2026-08,6200,Marketing programmes,opex,actual,22883,Marketing,General,Actual,USD,2026-08-actual-6200
+2026-08,6300,Software & tools,opex,budget,8251,Engineering,General,FY26 Budget,USD,2026-08-budget-6300
+2026-08,6300,Software & tools,opex,actual,8789,Engineering,General,Actual,USD,2026-08-actual-6300
+2026-08,6400,Rent & utilities,opex,budget,9969,Admin,General,FY26 Budget,USD,2026-08-budget-6400
+2026-08,6400,Rent & utilities,opex,actual,9776,Admin,General,Actual,USD,2026-08-actual-6400
+2026-08,6500,Travel & events,opex,budget,6544,Sales,General,FY26 Budget,USD,2026-08-budget-6500
+2026-08,6500,Travel & events,opex,actual,5945,Sales,General,Actual,USD,2026-08-actual-6500
+2026-08,6600,Professional fees,opex,budget,5381,Admin,General,FY26 Budget,USD,2026-08-budget-6600
+2026-08,6600,Professional fees,opex,actual,5878,Admin,General,Actual,USD,2026-08-actual-6600
+2026-09,4100,Subscription revenue,revenue,budget,160193,Sales,Subscriptions,FY26 Budget,USD,2026-09-budget-4100
+2026-09,4100,Subscription revenue,revenue,actual,165767,Sales,Subscriptions,Actual,USD,2026-09-actual-4100
+2026-09,4200,Consulting revenue,revenue,budget,69926,Sales,Consulting,FY26 Budget,USD,2026-09-budget-4200
+2026-09,4200,Consulting revenue,revenue,actual,66506,Sales,Consulting,Actual,USD,2026-09-actual-4200
+2026-09,4300,Support plans,revenue,budget,33471,Operations,Support,FY26 Budget,USD,2026-09-budget-4300
+2026-09,4300,Support plans,revenue,actual,33389,Operations,Support,Actual,USD,2026-09-actual-4300
+2026-09,5100,Hosting & infrastructure,direct_cost,budget,34651,Engineering,Subscriptions,FY26 Budget,USD,2026-09-budget-5100
+2026-09,5100,Hosting & infrastructure,direct_cost,actual,36722,Engineering,Subscriptions,Actual,USD,2026-09-actual-5100
+2026-09,5200,Delivery team,direct_cost,budget,42322,Operations,Consulting,FY26 Budget,USD,2026-09-budget-5200
+2026-09,5200,Delivery team,direct_cost,actual,40168,Operations,Consulting,Actual,USD,2026-09-actual-5200
+2026-09,5300,Support staff,direct_cost,budget,14953,Operations,Support,FY26 Budget,USD,2026-09-budget-5300
+2026-09,5300,Support staff,direct_cost,actual,15267,Operations,Support,Actual,USD,2026-09-actual-5300
+2026-09,6100,Salaries & benefits,opex,budget,61105,Engineering,General,FY26 Budget,USD,2026-09-budget-6100
+2026-09,6100,Salaries & benefits,opex,actual,60871,Engineering,General,Actual,USD,2026-09-actual-6100
+2026-09,6200,Marketing programmes,opex,budget,24680,Marketing,General,FY26 Budget,USD,2026-09-budget-6200
+2026-09,6200,Marketing programmes,opex,actual,22565,Marketing,General,Actual,USD,2026-09-actual-6200
+2026-09,6300,Software & tools,opex,budget,8311,Engineering,General,FY26 Budget,USD,2026-09-budget-6300
+2026-09,6300,Software & tools,opex,actual,8993,Engineering,General,Actual,USD,2026-09-actual-6300
+2026-09,6400,Rent & utilities,opex,budget,9978,Admin,General,FY26 Budget,USD,2026-09-budget-6400
+2026-09,6400,Rent & utilities,opex,actual,10116,Admin,General,Actual,USD,2026-09-actual-6400
+2026-09,6500,Travel & events,opex,budget,6341,Sales,General,FY26 Budget,USD,2026-09-budget-6500
+2026-09,6500,Travel & events,opex,actual,5768,Sales,General,Actual,USD,2026-09-actual-6500
+2026-09,6600,Professional fees,opex,budget,5390,Admin,General,FY26 Budget,USD,2026-09-budget-6600
+2026-09,6600,Professional fees,opex,actual,5888,Admin,General,Actual,USD,2026-09-actual-6600
+2026-10,4100,Subscription revenue,revenue,budget,162389,Sales,Subscriptions,FY26 Budget,USD,2026-10-budget-4100
+2026-10,4100,Subscription revenue,revenue,forecast,171056,Sales,Subscriptions,Q3 Forecast,USD,2026-10-forecast-4100
+2026-10,4200,Consulting revenue,revenue,budget,69956,Sales,Consulting,FY26 Budget,USD,2026-10-budget-4200
+2026-10,4200,Consulting revenue,revenue,forecast,64749,Sales,Consulting,Q3 Forecast,USD,2026-10-forecast-4200
+2026-10,4300,Support plans,revenue,budget,33832,Operations,Support,FY26 Budget,USD,2026-10-budget-4300
+2026-10,4300,Support plans,revenue,forecast,34342,Operations,Support,Q3 Forecast,USD,2026-10-forecast-4300
+2026-10,5100,Hosting & infrastructure,direct_cost,budget,35119,Engineering,Subscriptions,FY26 Budget,USD,2026-10-budget-5100
+2026-10,5100,Hosting & infrastructure,direct_cost,forecast,37067,Engineering,Subscriptions,Q3 Forecast,USD,2026-10-forecast-5100
+2026-10,5200,Delivery team,direct_cost,budget,42550,Operations,Consulting,FY26 Budget,USD,2026-10-budget-5200
+2026-10,5200,Delivery team,direct_cost,forecast,41018,Operations,Consulting,Q3 Forecast,USD,2026-10-forecast-5200
+2026-10,5300,Support staff,direct_cost,budget,15088,Operations,Support,FY26 Budget,USD,2026-10-budget-5300
+2026-10,5300,Support staff,direct_cost,forecast,15312,Operations,Support,Q3 Forecast,USD,2026-10-forecast-5300
+2026-10,6100,Salaries & benefits,opex,budget,61600,Engineering,General,FY26 Budget,USD,2026-10-budget-6100
+2026-10,6100,Salaries & benefits,opex,forecast,62454,Engineering,General,Q3 Forecast,USD,2026-10-forecast-6100
+2026-10,6200,Marketing programmes,opex,budget,24735,Marketing,General,FY26 Budget,USD,2026-10-budget-6200
+2026-10,6200,Marketing programmes,opex,forecast,22246,Marketing,General,Q3 Forecast,USD,2026-10-forecast-6200
+2026-10,6300,Software & tools,opex,budget,8371,Engineering,General,FY26 Budget,USD,2026-10-budget-6300
+2026-10,6300,Software & tools,opex,forecast,8958,Engineering,General,Q3 Forecast,USD,2026-10-forecast-6300
+2026-10,6400,Rent & utilities,opex,budget,9987,Admin,General,FY26 Budget,USD,2026-10-budget-6400
+2026-10,6400,Rent & utilities,opex,forecast,10053,Admin,General,Q3 Forecast,USD,2026-10-forecast-6400
+2026-10,6500,Travel & events,opex,budget,6281,Sales,General,FY26 Budget,USD,2026-10-budget-6500
+2026-10,6500,Travel & events,opex,forecast,5551,Sales,General,Q3 Forecast,USD,2026-10-forecast-6500
+2026-10,6600,Professional fees,opex,budget,5400,Admin,General,FY26 Budget,USD,2026-10-budget-6600
+2026-10,6600,Professional fees,opex,forecast,5874,Admin,General,Q3 Forecast,USD,2026-10-forecast-6600
+2026-11,4100,Subscription revenue,revenue,budget,165425,Sales,Subscriptions,FY26 Budget,USD,2026-11-budget-4100
+2026-11,4100,Subscription revenue,revenue,forecast,174248,Sales,Subscriptions,Q3 Forecast,USD,2026-11-forecast-4100
+2026-11,4200,Consulting revenue,revenue,budget,70810,Sales,Consulting,FY26 Budget,USD,2026-11-budget-4200
+2026-11,4200,Consulting revenue,revenue,forecast,65781,Sales,Consulting,Q3 Forecast,USD,2026-11-forecast-4200
+2026-11,4300,Support plans,revenue,budget,34198,Operations,Support,FY26 Budget,USD,2026-11-budget-4300
+2026-11,4300,Support plans,revenue,forecast,34898,Operations,Support,Q3 Forecast,USD,2026-11-forecast-4300
+2026-11,5100,Hosting & infrastructure,direct_cost,budget,35593,Engineering,Subscriptions,FY26 Budget,USD,2026-11-budget-5100
+2026-11,5100,Hosting & infrastructure,direct_cost,forecast,37429,Engineering,Subscriptions,Q3 Forecast,USD,2026-11-forecast-5100
+2026-11,5200,Delivery team,direct_cost,budget,42780,Operations,Consulting,FY26 Budget,USD,2026-11-budget-5200
+2026-11,5200,Delivery team,direct_cost,forecast,41595,Operations,Consulting,Q3 Forecast,USD,2026-11-forecast-5200
+2026-11,5300,Support staff,direct_cost,budget,15224,Operations,Support,FY26 Budget,USD,2026-11-budget-5300
+2026-11,5300,Support staff,direct_cost,forecast,15372,Operations,Support,Q3 Forecast,USD,2026-11-forecast-5300
+2026-11,6100,Salaries & benefits,opex,budget,62099,Engineering,General,FY26 Budget,USD,2026-11-budget-6100
+2026-11,6100,Salaries & benefits,opex,forecast,63156,Engineering,General,Q3 Forecast,USD,2026-11-forecast-6100
+2026-11,6200,Marketing programmes,opex,budget,25216,Marketing,General,FY26 Budget,USD,2026-11-budget-6200
+2026-11,6200,Marketing programmes,opex,forecast,22647,Marketing,General,Q3 Forecast,USD,2026-11-forecast-6200
+2026-11,6300,Software & tools,opex,budget,8431,Engineering,General,FY26 Budget,USD,2026-11-budget-6300
+2026-11,6300,Software & tools,opex,forecast,9010,Engineering,General,Q3 Forecast,USD,2026-11-forecast-6300
+2026-11,6400,Rent & utilities,opex,budget,9996,Admin,General,FY26 Budget,USD,2026-11-budget-6400
+2026-11,6400,Rent & utilities,opex,forecast,10005,Admin,General,Q3 Forecast,USD,2026-11-forecast-6400
+2026-11,6500,Travel & events,opex,budget,6387,Sales,General,FY26 Budget,USD,2026-11-budget-6500
+2026-11,6500,Travel & events,opex,forecast,5694,Sales,General,Q3 Forecast,USD,2026-11-forecast-6500
+2026-11,6600,Professional fees,opex,budget,5410,Admin,General,FY26 Budget,USD,2026-11-budget-6600
+2026-11,6600,Professional fees,opex,forecast,5902,Admin,General,Q3 Forecast,USD,2026-11-forecast-6600
+2026-12,4100,Subscription revenue,revenue,budget,169230,Sales,Subscriptions,FY26 Budget,USD,2026-12-budget-4100
+2026-12,4100,Subscription revenue,revenue,forecast,176917,Sales,Subscriptions,Q3 Forecast,USD,2026-12-forecast-4100
+2026-12,4200,Consulting revenue,revenue,budget,72393,Sales,Consulting,FY26 Budget,USD,2026-12-budget-4200
+2026-12,4200,Consulting revenue,revenue,forecast,67265,Sales,Consulting,Q3 Forecast,USD,2026-12-forecast-4200
+2026-12,4300,Support plans,revenue,budget,34567,Operations,Support,FY26 Budget,USD,2026-12-budget-4300
+2026-12,4300,Support plans,revenue,forecast,35208,Operations,Support,Q3 Forecast,USD,2026-12-forecast-4300
+2026-12,5100,Hosting & infrastructure,direct_cost,budget,36074,Engineering,Subscriptions,FY26 Budget,USD,2026-12-budget-5100
+2026-12,5100,Hosting & infrastructure,direct_cost,forecast,38126,Engineering,Subscriptions,Q3 Forecast,USD,2026-12-forecast-5100
+2026-12,5200,Delivery team,direct_cost,budget,43011,Operations,Consulting,FY26 Budget,USD,2026-12-budget-5200
+2026-12,5200,Delivery team,direct_cost,forecast,41868,Operations,Consulting,Q3 Forecast,USD,2026-12-forecast-5200
+2026-12,5300,Support staff,direct_cost,budget,15361,Operations,Support,FY26 Budget,USD,2026-12-budget-5300
+2026-12,5300,Support staff,direct_cost,forecast,15567,Operations,Support,Q3 Forecast,USD,2026-12-forecast-5300
+2026-12,6100,Salaries & benefits,opex,budget,62602,Engineering,General,FY26 Budget,USD,2026-12-budget-6100
+2026-12,6100,Salaries & benefits,opex,forecast,63498,Engineering,General,Q3 Forecast,USD,2026-12-forecast-6100
+2026-12,6200,Marketing programmes,opex,budget,26079,Marketing,General,FY26 Budget,USD,2026-12-budget-6200
+2026-12,6200,Marketing programmes,opex,forecast,23610,Marketing,General,Q3 Forecast,USD,2026-12-forecast-6200
+2026-12,6300,Software & tools,opex,budget,8492,Engineering,General,FY26 Budget,USD,2026-12-budget-6300
+2026-12,6300,Software & tools,opex,forecast,9039,Engineering,General,Q3 Forecast,USD,2026-12-forecast-6300
+2026-12,6400,Rent & utilities,opex,budget,10005,Admin,General,FY26 Budget,USD,2026-12-budget-6400
+2026-12,6400,Rent & utilities,opex,forecast,10010,Admin,General,Q3 Forecast,USD,2026-12-forecast-6400
+2026-12,6500,Travel & events,opex,budget,6639,Sales,General,FY26 Budget,USD,2026-12-budget-6500
+2026-12,6500,Travel & events,opex,forecast,5830,Sales,General,Q3 Forecast,USD,2026-12-forecast-6500
+2026-12,6600,Professional fees,opex,budget,5420,Admin,General,FY26 Budget,USD,2026-12-budget-6600
+2026-12,6600,Professional fees,opex,forecast,5941,Admin,General,Q3 Forecast,USD,2026-12-forecast-6600
+2027-01,4100,Subscription revenue,revenue,forecast,181706,Sales,Subscriptions,Q3 Forecast,USD,2027-01-forecast-4100
+2027-01,4200,Consulting revenue,revenue,forecast,69269,Sales,Consulting,Q3 Forecast,USD,2027-01-forecast-4200
+2027-01,4300,Support plans,revenue,forecast,35477,Operations,Support,Q3 Forecast,USD,2027-01-forecast-4300
+2027-01,5100,Hosting & infrastructure,direct_cost,forecast,38265,Engineering,Subscriptions,Q3 Forecast,USD,2027-01-forecast-5100
+2027-01,5200,Delivery team,direct_cost,forecast,41777,Operations,Consulting,Q3 Forecast,USD,2027-01-forecast-5200
+2027-01,5300,Support staff,direct_cost,forecast,15768,Operations,Support,Q3 Forecast,USD,2027-01-forecast-5300
+2027-01,6100,Salaries & benefits,opex,forecast,64091,Engineering,General,Q3 Forecast,USD,2027-01-forecast-6100
+2027-01,6200,Marketing programmes,opex,forecast,24571,Marketing,General,Q3 Forecast,USD,2027-01-forecast-6200
+2027-01,6300,Software & tools,opex,forecast,9047,Engineering,General,Q3 Forecast,USD,2027-01-forecast-6300
+2027-01,6400,Rent & utilities,opex,forecast,9949,Admin,General,Q3 Forecast,USD,2027-01-forecast-6400
+2027-01,6500,Travel & events,opex,forecast,6145,Sales,General,Q3 Forecast,USD,2027-01-forecast-6500
+2027-01,6600,Professional fees,opex,forecast,5957,Admin,General,Q3 Forecast,USD,2027-01-forecast-6600
+2027-02,4100,Subscription revenue,revenue,forecast,186380,Sales,Subscriptions,Q3 Forecast,USD,2027-02-forecast-4100
+2027-02,4200,Consulting revenue,revenue,forecast,70452,Sales,Consulting,Q3 Forecast,USD,2027-02-forecast-4200
+2027-02,4300,Support plans,revenue,forecast,35859,Operations,Support,Q3 Forecast,USD,2027-02-forecast-4300
+2027-02,5100,Hosting & infrastructure,direct_cost,forecast,39028,Engineering,Subscriptions,Q3 Forecast,USD,2027-02-forecast-5100
+2027-02,5200,Delivery team,direct_cost,forecast,42070,Operations,Consulting,Q3 Forecast,USD,2027-02-forecast-5200
+2027-02,5300,Support staff,direct_cost,forecast,15891,Operations,Support,Q3 Forecast,USD,2027-02-forecast-5300
+2027-02,6100,Salaries & benefits,opex,forecast,65056,Engineering,General,Q3 Forecast,USD,2027-02-forecast-6100
+2027-02,6200,Marketing programmes,opex,forecast,25719,Marketing,General,Q3 Forecast,USD,2027-02-forecast-6200
+2027-02,6300,Software & tools,opex,forecast,9127,Engineering,General,Q3 Forecast,USD,2027-02-forecast-6300
+2027-02,6400,Rent & utilities,opex,forecast,10036,Admin,General,Q3 Forecast,USD,2027-02-forecast-6400
+2027-02,6500,Travel & events,opex,forecast,6418,Sales,General,Q3 Forecast,USD,2027-02-forecast-6500
+2027-02,6600,Professional fees,opex,forecast,5941,Admin,General,Q3 Forecast,USD,2027-02-forecast-6600
+2027-03,4100,Subscription revenue,revenue,forecast,191593,Sales,Subscriptions,Q3 Forecast,USD,2027-03-forecast-4100
+2027-03,4200,Consulting revenue,revenue,forecast,72263,Sales,Consulting,Q3 Forecast,USD,2027-03-forecast-4200
+2027-03,4300,Support plans,revenue,forecast,36663,Operations,Support,Q3 Forecast,USD,2027-03-forecast-4300
+2027-03,5100,Hosting & infrastructure,direct_cost,forecast,39329,Engineering,Subscriptions,Q3 Forecast,USD,2027-03-forecast-5100
+2027-03,5200,Delivery team,direct_cost,forecast,42456,Operations,Consulting,Q3 Forecast,USD,2027-03-forecast-5200
+2027-03,5300,Support staff,direct_cost,forecast,16061,Operations,Support,Q3 Forecast,USD,2027-03-forecast-5300
+2027-03,6100,Salaries & benefits,opex,forecast,65777,Engineering,General,Q3 Forecast,USD,2027-03-forecast-6100
+2027-03,6200,Marketing programmes,opex,forecast,26636,Marketing,General,Q3 Forecast,USD,2027-03-forecast-6200
+2027-03,6300,Software & tools,opex,forecast,9225,Engineering,General,Q3 Forecast,USD,2027-03-forecast-6300
+2027-03,6400,Rent & utilities,opex,forecast,10003,Admin,General,Q3 Forecast,USD,2027-03-forecast-6400
+2027-03,6500,Travel & events,opex,forecast,6695,Sales,General,Q3 Forecast,USD,2027-03-forecast-6500
+2027-03,6600,Professional fees,opex,forecast,5938,Admin,General,Q3 Forecast,USD,2027-03-forecast-6600
+2027-04,4100,Subscription revenue,revenue,forecast,194708,Sales,Subscriptions,Q3 Forecast,USD,2027-04-forecast-4100
+2027-04,4200,Consulting revenue,revenue,forecast,73500,Sales,Consulting,Q3 Forecast,USD,2027-04-forecast-4200
+2027-04,4300,Support plans,revenue,forecast,36676,Operations,Support,Q3 Forecast,USD,2027-04-forecast-4300
+2027-04,5100,Hosting & infrastructure,direct_cost,forecast,39803,Engineering,Subscriptions,Q3 Forecast,USD,2027-04-forecast-5100
+2027-04,5200,Delivery team,direct_cost,forecast,42664,Operations,Consulting,Q3 Forecast,USD,2027-04-forecast-5200
+2027-04,5300,Support staff,direct_cost,forecast,16176,Operations,Support,Q3 Forecast,USD,2027-04-forecast-5300
+2027-04,6100,Salaries & benefits,opex,forecast,65835,Engineering,General,Q3 Forecast,USD,2027-04-forecast-6100
+2027-04,6200,Marketing programmes,opex,forecast,26977,Marketing,General,Q3 Forecast,USD,2027-04-forecast-6200
+2027-04,6300,Software & tools,opex,forecast,9334,Engineering,General,Q3 Forecast,USD,2027-04-forecast-6300
+2027-04,6400,Rent & utilities,opex,forecast,10098,Admin,General,Q3 Forecast,USD,2027-04-forecast-6400
+2027-04,6500,Travel & events,opex,forecast,6851,Sales,General,Q3 Forecast,USD,2027-04-forecast-6500
+2027-04,6600,Professional fees,opex,forecast,5953,Admin,General,Q3 Forecast,USD,2027-04-forecast-6600
+2027-05,4100,Subscription revenue,revenue,forecast,196434,Sales,Subscriptions,Q3 Forecast,USD,2027-05-forecast-4100
+2027-05,4200,Consulting revenue,revenue,forecast,73012,Sales,Consulting,Q3 Forecast,USD,2027-05-forecast-4200
+2027-05,4300,Support plans,revenue,forecast,37118,Operations,Support,Q3 Forecast,USD,2027-05-forecast-4300
+2027-05,5100,Hosting & infrastructure,direct_cost,forecast,40565,Engineering,Subscriptions,Q3 Forecast,USD,2027-05-forecast-5100
+2027-05,5200,Delivery team,direct_cost,forecast,42512,Operations,Consulting,Q3 Forecast,USD,2027-05-forecast-5200
+2027-05,5300,Support staff,direct_cost,forecast,16175,Operations,Support,Q3 Forecast,USD,2027-05-forecast-5300
+2027-05,6100,Salaries & benefits,opex,forecast,66071,Engineering,General,Q3 Forecast,USD,2027-05-forecast-6100
+2027-05,6200,Marketing programmes,opex,forecast,27022,Marketing,General,Q3 Forecast,USD,2027-05-forecast-6200
+2027-05,6300,Software & tools,opex,forecast,9343,Engineering,General,Q3 Forecast,USD,2027-05-forecast-6300
+2027-05,6400,Rent & utilities,opex,forecast,10014,Admin,General,Q3 Forecast,USD,2027-05-forecast-6400
+2027-05,6500,Travel & events,opex,forecast,6772,Sales,General,Q3 Forecast,USD,2027-05-forecast-6500
+2027-05,6600,Professional fees,opex,forecast,5950,Admin,General,Q3 Forecast,USD,2027-05-forecast-6600
+2027-06,4100,Subscription revenue,revenue,forecast,198730,Sales,Subscriptions,Q3 Forecast,USD,2027-06-forecast-4100
+2027-06,4200,Consulting revenue,revenue,forecast,72062,Sales,Consulting,Q3 Forecast,USD,2027-06-forecast-4200
+2027-06,4300,Support plans,revenue,forecast,37573,Operations,Support,Q3 Forecast,USD,2027-06-forecast-4300
+2027-06,5100,Hosting & infrastructure,direct_cost,forecast,41420,Engineering,Subscriptions,Q3 Forecast,USD,2027-06-forecast-5100
+2027-06,5200,Delivery team,direct_cost,forecast,42949,Operations,Consulting,Q3 Forecast,USD,2027-06-forecast-5200
+2027-06,5300,Support staff,direct_cost,forecast,16492,Operations,Support,Q3 Forecast,USD,2027-06-forecast-5300
+2027-06,6100,Salaries & benefits,opex,forecast,66636,Engineering,General,Q3 Forecast,USD,2027-06-forecast-6100
+2027-06,6200,Marketing programmes,opex,forecast,26796,Marketing,General,Q3 Forecast,USD,2027-06-forecast-6200
+2027-06,6300,Software & tools,opex,forecast,9375,Engineering,General,Q3 Forecast,USD,2027-06-forecast-6300
+2027-06,6400,Rent & utilities,opex,forecast,10116,Admin,General,Q3 Forecast,USD,2027-06-forecast-6400
+2027-06,6500,Travel & events,opex,forecast,6510,Sales,General,Q3 Forecast,USD,2027-06-forecast-6500
+2027-06,6600,Professional fees,opex,forecast,6005,Admin,General,Q3 Forecast,USD,2027-06-forecast-6600
+2027-07,4100,Subscription revenue,revenue,forecast,199584,Sales,Subscriptions,Q3 Forecast,USD,2027-07-forecast-4100
+2027-07,4200,Consulting revenue,revenue,forecast,71025,Sales,Consulting,Q3 Forecast,USD,2027-07-forecast-4200
+2027-07,4300,Support plans,revenue,forecast,37843,Operations,Support,Q3 Forecast,USD,2027-07-forecast-4300
+2027-07,5100,Hosting & infrastructure,direct_cost,forecast,41556,Engineering,Subscriptions,Q3 Forecast,USD,2027-07-forecast-5100
+2027-07,5200,Delivery team,direct_cost,forecast,43426,Operations,Consulting,Q3 Forecast,USD,2027-07-forecast-5200
+2027-07,5300,Support staff,direct_cost,forecast,16600,Operations,Support,Q3 Forecast,USD,2027-07-forecast-5300
+2027-07,6100,Salaries & benefits,opex,forecast,67188,Engineering,General,Q3 Forecast,USD,2027-07-forecast-6100
+2027-07,6200,Marketing programmes,opex,forecast,26380,Marketing,General,Q3 Forecast,USD,2027-07-forecast-6200
+2027-07,6300,Software & tools,opex,forecast,9488,Engineering,General,Q3 Forecast,USD,2027-07-forecast-6300
+2027-07,6400,Rent & utilities,opex,forecast,10016,Admin,General,Q3 Forecast,USD,2027-07-forecast-6400
+2027-07,6500,Travel & events,opex,forecast,6322,Sales,General,Q3 Forecast,USD,2027-07-forecast-6500
+2027-07,6600,Professional fees,opex,forecast,6037,Admin,General,Q3 Forecast,USD,2027-07-forecast-6600
+2027-08,4100,Subscription revenue,revenue,forecast,201547,Sales,Subscriptions,Q3 Forecast,USD,2027-08-forecast-4100
+2027-08,4200,Consulting revenue,revenue,forecast,70752,Sales,Consulting,Q3 Forecast,USD,2027-08-forecast-4200
+2027-08,4300,Support plans,revenue,forecast,38547,Operations,Support,Q3 Forecast,USD,2027-08-forecast-4300
+2027-08,5100,Hosting & infrastructure,direct_cost,forecast,42339,Engineering,Subscriptions,Q3 Forecast,USD,2027-08-forecast-5100
+2027-08,5200,Delivery team,direct_cost,forecast,43550,Operations,Consulting,Q3 Forecast,USD,2027-08-forecast-5200
+2027-08,5300,Support staff,direct_cost,forecast,16571,Operations,Support,Q3 Forecast,USD,2027-08-forecast-5300
+2027-08,6100,Salaries & benefits,opex,forecast,67961,Engineering,General,Q3 Forecast,USD,2027-08-forecast-6100
+2027-08,6200,Marketing programmes,opex,forecast,25786,Marketing,General,Q3 Forecast,USD,2027-08-forecast-6200
+2027-08,6300,Software & tools,opex,forecast,9514,Engineering,General,Q3 Forecast,USD,2027-08-forecast-6300
+2027-08,6400,Rent & utilities,opex,forecast,10062,Admin,General,Q3 Forecast,USD,2027-08-forecast-6400
+2027-08,6500,Travel & events,opex,forecast,6079,Sales,General,Q3 Forecast,USD,2027-08-forecast-6500
+2027-08,6600,Professional fees,opex,forecast,6019,Admin,General,Q3 Forecast,USD,2027-08-forecast-6600
+2027-09,4100,Subscription revenue,revenue,forecast,204842,Sales,Subscriptions,Q3 Forecast,USD,2027-09-forecast-4100
+2027-09,4200,Consulting revenue,revenue,forecast,69427,Sales,Consulting,Q3 Forecast,USD,2027-09-forecast-4200
+2027-09,4300,Support plans,revenue,forecast,38820,Operations,Support,Q3 Forecast,USD,2027-09-forecast-4300
+2027-09,5100,Hosting & infrastructure,direct_cost,forecast,42710,Engineering,Subscriptions,Q3 Forecast,USD,2027-09-forecast-5100
+2027-09,5200,Delivery team,direct_cost,forecast,43925,Operations,Consulting,Q3 Forecast,USD,2027-09-forecast-5200
+2027-09,5300,Support staff,direct_cost,forecast,16855,Operations,Support,Q3 Forecast,USD,2027-09-forecast-5300
+2027-09,6100,Salaries & benefits,opex,forecast,68982,Engineering,General,Q3 Forecast,USD,2027-09-forecast-6100
+2027-09,6200,Marketing programmes,opex,forecast,25518,Marketing,General,Q3 Forecast,USD,2027-09-forecast-6200
+2027-09,6300,Software & tools,opex,forecast,9564,Engineering,General,Q3 Forecast,USD,2027-09-forecast-6300
+2027-09,6400,Rent & utilities,opex,forecast,10042,Admin,General,Q3 Forecast,USD,2027-09-forecast-6400
+2027-09,6500,Travel & events,opex,forecast,5812,Sales,General,Q3 Forecast,USD,2027-09-forecast-6500
+2027-09,6600,Professional fees,opex,forecast,6042,Admin,General,Q3 Forecast,USD,2027-09-forecast-6600
