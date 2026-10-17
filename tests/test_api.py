@@ -1,6 +1,6 @@
 import unittest
 from fastapi.testclient import TestClient
-from api.app import app
+from local_api.app import app
 class APITests(unittest.TestCase):
     def setUp(self): self.client=TestClient(app)
     def test_health(self): self.assertEqual(self.client.get('/health').status_code,200)

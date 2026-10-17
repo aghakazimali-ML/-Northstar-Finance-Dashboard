@@ -100,7 +100,7 @@ React/TypeScript powers the app. Excel supports real imports and exports; Power 
 ```bash
 pip install -r python/requirements.txt
 python python/engine.py company.csv --currency USD > review.json
-uvicorn api.app:app --host 127.0.0.1 --port 8000
+uvicorn local_api.app:app --host 127.0.0.1 --port 8000
 ```
 
 The optional API accepts normalized records at POST /api/validate. It is not connected to the hosted dashboard. Former preloaded report/scenario endpoints return 410. The optional Python API ships no demo data. (The web app's opt-in **Try sample data** button builds a clearly labelled fictional company in the browser, session-only, through the same import pipeline.)
